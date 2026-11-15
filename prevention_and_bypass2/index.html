@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>LFI-dan qorunub</title>
+    </head>
+    <body>
+        <h2>Melumatlarini gormek ucun bas:</h2>
+        <form action="/lfi_prenvention.php" method="GET">
+            <input type="hidden" name="file" value="melumat.txt">
+            <input type="submit">
+        </form>
+    </body>
+</html>

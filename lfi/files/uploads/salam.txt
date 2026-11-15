@@ -1,0 +1,4 @@
+Salam, bunu da oxuyursan, elasan. LFI fayli tekce oxumur hem de onu icra edir. Indi php kodunu icra et (/kodlar/kod.php)
+
+
+Eger path traversal olsaydi sen kodu gorerdin. Amma seni menim LinkedIn profilime yonlendirecek.
